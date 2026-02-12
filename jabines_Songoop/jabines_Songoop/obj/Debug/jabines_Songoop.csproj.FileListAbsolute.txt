@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\jabines_Songoop\jabines_Songoop\bin\Debug\jabines_Songoop.exe.config
+C:\Users\ACT-STUDENT\Desktop\jabines_Songoop\jabines_Songoop\bin\Debug\jabines_Songoop.exe
+C:\Users\ACT-STUDENT\Desktop\jabines_Songoop\jabines_Songoop\bin\Debug\jabines_Songoop.pdb
+C:\Users\ACT-STUDENT\Desktop\jabines_Songoop\jabines_Songoop\obj\Debug\jabines_Songoop.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\jabines_Songoop\jabines_Songoop\obj\Debug\jabines_Songoop.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\jabines_Songoop\jabines_Songoop\obj\Debug\jabines_Songoop.exe
+C:\Users\ACT-STUDENT\Desktop\jabines_Songoop\jabines_Songoop\obj\Debug\jabines_Songoop.pdb
+C:\Users\ACT-STUDENT\Desktop\jabines_Songoop\jabines_Songoop\obj\Debug\jabines_Songoop.exe.config
