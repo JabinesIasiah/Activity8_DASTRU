@@ -23,6 +23,22 @@ namespace jabines_Songoop
         }
 
 
+        public void DisplaySongs()
+        {
+            if (songList.Count == 0)
+            {
+                Console.WriteLine("No songs in the list.");
+                return;
+            }
+            var node = songList.First;
+            while (node != null)
+            {
+                Console.WriteLine(node.Value.Display());
+                Console.WriteLine("-----------------------------");
+                node = node.Next;
+            }
+        }
+
 
         public bool RemoveTitle(string title)
         {

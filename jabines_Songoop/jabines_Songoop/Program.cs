@@ -32,9 +32,13 @@ namespace jabines_Songoop
                         string titleToRemove = Console.ReadLine();
                         Manage.RemoveTitle(titleToRemove);
                         break;
-                    case 3:
-                        Manage.ToString();
+                 case 3:
+                        Console.WriteLine("Songs in the List:");
+                        Manage.DisplaySongs();
+                        Console.WriteLine("Press any key to continue...");
+                        Console.ReadKey();
                         break;
+
                     case 4:
                         running = false;
                         Console.WriteLine("Program Ended");

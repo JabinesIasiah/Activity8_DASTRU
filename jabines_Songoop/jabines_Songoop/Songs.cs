@@ -39,7 +39,7 @@ namespace jabines_Songoop
 
         public override string Display() 
         {
-            return $"Tilte{Title} by {Artist} \nfrom the album {Album}, \nGenre: {Genre}, \nDuration: {Duration}";
+            return $"Tilte:{Title} by {Artist} \nfrom the album {Album}, \nGenre: {Genre}, \nDuration: {Duration}";
         }
     }
 }
